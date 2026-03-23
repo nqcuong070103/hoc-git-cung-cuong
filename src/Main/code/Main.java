@@ -1,7 +1,5 @@
-package src.Main.code;
-
 public class Main{
-    public static void main(String[] args){
-        System.out.println("Xin chao IT6");
+    public static void main(String[] thamso){
+        System.out.println("Hello");
     }
 }
