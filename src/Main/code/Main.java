@@ -6,6 +6,6 @@ public class Main{
         System.out.println("Hello Cuong");
         System.out.println("Hello.Phat");
         System.out.println("Dm nhan");
-
+        System.out.println("bố bực lắm rồi đấy");
     }
 }
